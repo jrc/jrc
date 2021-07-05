@@ -1,0 +1,8 @@
+# ~jrc/
+
+## Contact
+
+- https://twitter.com/jrcplus
+- https://www.linkedin.com/in/johnrchang
+- http://stackoverflow.com/users/594211/jrc
+- https://github.com/jrc
